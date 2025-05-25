@@ -1,0 +1,38 @@
+[
+    {
+      "section": "resume_guidelines_instruction",
+      "category": "resume",
+      "content": "The basic areas to include are your contact information, education, research experience, teaching experience, publications, presentations, honors and awards, and contact information for your references. Some formatting pointers: There is no single best format. Refer to samples for ideas, but craft your CV to best reflect you and your accomplishments. Unlike a resume, there is no page limit, but most graduate students’ CVs are two to five pages in length. Use active verbs, sentence fragments, and minimize pronouns. Tailor your CV to the position and audience."
+    },
+    {
+      "section": "resume_action_verbs",
+      "category": "resume",
+      "content": {
+        "Achievement": "accelerated, accomplished, achieved, activated, attained, competed, earned, effected, elicited, executed, exercised, expanded, expedited, generated, improved, increased, insured, marketed, mastered, obtained, produced, reduced, reorganized, reproduced, restructured, simplified, sold, solicited, streamlined, succeeded, upgraded",
+        "Administrative": "arranged, channeled, charted, collated, collected, coordinated, dispensed, distributed, established, executed, implemented, installed, maintained, offered, ordered, outlined, performed, prepared, processed, provided, purchased, recorded, rendered, served, serviced, sourced, supported, translated",
+        "Communication": "addressed, arbitrated, articulated, briefed, communicated, conducted, contacted, conveyed, corresponded, delivered, demonstrated, edited, entertained, illustrated, informed, interviewed, lectured, mediated, persuaded, presented, proposed, publicized, reported, represented, responded, suggested, wrote",
+        "Creative": "authored, changed, conceived, constructed, created, devised, drafted, established, founded, illustrated, influenced, invented, launched, originated, revamped, revised, staged, updated, visualized",
+        "Financial": "allocated, analyzed, appraised, audited, balanced, budgeted, calculated, compiled, computed, controlled, disbursed, estimated, figured, financed, forecasted, projected, reconciled, tabulated",
+        "Technical": "adapted, adjusted, applied, built, computed, constructed, critiqued, designed, diagnosed, engineered, maintained, modified, operated, prescribed, programmed, reinforced, repaired, resolved, restored, specified, systematized, tested, united",
+        "Research/Analytical": "assessed, compared, critiqued, defined, derived, detected, determined, discovered, evaluated, examined, explored, found, inspected, interpreted, investigated, located, measured, observed, predicted, rated, recommended, researched, reviewed, searched, studied, summarized, surveyed, verified",
+        "Lead/Manage": "acquired, administered, approved, assigned, chaired, contracted, controlled, decided, delegated, directed, enlisted, governed, handled, initiated, instituted, managed, monitored, motivated, presided, recruited, regulated, retained, scheduled, selected, shaped, structured, supervised, targeted",
+        "Plan/Organize": "anticipated, arranged, catalogued, categorized, classified, collected, consolidated, convened, edited, eliminated, employed, gathered, grouped, organized, planned, reviewed, scheduled, structured, summarized",
+        "Help/Teach": "advised, clarified, coached, collaborated, consulted, counseled, educated, explained, facilitated, guided, helped, instructed, modeled, participated, taught, trained, tutored"
+      }
+    },
+    {
+      "section": "cover_letter_email_instruction",
+      "category": "cover_letter",
+      "content": "When sending a cover letter by email, omit both your and the recipient’s contact information and the date. Start directly with the salutation (e.g., 'Dear Dr. Keshilian'). Use proper letter structure and tone even though the format is simplified for email."
+    },
+    {
+      "section": "cover_letter_email_example",
+      "category": "cover_letter",
+      "content": "Dear Dr. Keshilian -\n\nMy Ph.D. advisor, Martin Rothberg of Harvard Medical School, suggested I write to you to inquire about the possibility of a postdoctoral position in your laboratory. I am currently completing my Ph.D. in Immunology at Harvard, and expect to defend by May, 2019.\n\nI am interested in immune responses to viral infection, and my research with Dr. Rothberg has concentrated upon defining the role of IL-21 in the development of CD8+ T cell responses to viral antigens. Using an in vitro system, we have demonstrated that IL-21 can induce Bcl-2-mediated apoptosis of memory CD8+ T cells specific for an SIV antigen. We have also demonstrated that IL-21 plays a crucial role in the development of primary and secondary responses to virally encoded antigens in IL-21Ra-deficient mice. This study has indicated that IL-21 directly stimulates CD8+ T cell proliferation and survival. Our in vitro work has been published in The Journal of Immunology and we anticipate submitting a manuscript describing our in vivo results soon. This work is described in more detail in my accompanying CV.\n\nI hope to complement my understanding of the CD8+ T cell response to viral infection and CD8+ T cell apoptosis with postdoctoral training that furthers my understanding of innate immune responses to viral infections. I have followed your lab’s work in this area and am particularly interested in your work on autophagy, RLRs, and NLRs in viral infection. I would be very interested in working with you for my postdoctoral training to further my understanding of innate immune responses to viruses.\n\nIf you anticipate a position becoming available, I would greatly appreciate an opportunity to further discuss my research interests with you. I will be attending the upcoming Gordon Conference on Immunochemistry & Immunobiology in La Jolla, and I would be available to meet with you there or at UCSD that week.\n\nSincerely,\nMelanie Porter"
+    },
+    {
+      "section": "cover_letter_email_example_explanation",
+      "category": "cover_letter",
+      "content": "This email is a concise inquiry about a postdoctoral position sent to an expert in the field. The writer uses technical language appropriate to the recipient. It effectively summarizes qualifications and expresses clear interest in the recipient’s work. The email closes with availability for a meeting, which helps prompt a potential response."
+    }
+  ]  

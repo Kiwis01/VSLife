@@ -1,0 +1,6 @@
+selenium
+python-dotenv
+requests
+pymupdf
+google-generativeai
+requests

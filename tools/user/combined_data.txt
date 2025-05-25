@@ -1,0 +1,220 @@
+RESUME:
+CARLOS QUIHUIS
++1 (520) 312-8154  | chquihui@asu.edu  | Tempe, AZ, USA  | linkedin.com/in/carlos-quihuis-190b431aa 
+EDUCATION
+ 
+ 
+Arizona State University
+August 2020 - May 2025
+Bachelor's, Computer Science
+GPA: 3.52
+PROFESSIONAL EXPERIENCE
+ 
+ 
+City of Phoenix
+Phoenix, AZ, USA
+Software Engineering Intern
+September 2024 - Present
+•  
+Optimized procedures of data backup retrieval from the database
+•  
+Coordinated queries to replicate the hierarchy of the assets for database migration
+•  
+Identification of items efficiency increased by 80%
+•  
+Organized assets in series with corresponding operations and maintenance manuals
+SAGO
+Phoenix, AZ, USA
+IT Technician
+September 2023 - Present
+•  
+Integrated automated processes for data uploading to the cloud
+•  
+Conducted troubleshooting and maintenance for the server on-site
+•  
+Upgraded hardware and software gaining higher resolution for AV recordings (480p to 1080p)
+•  
+Engineered web application to gain AV system control directly from iPads
+PROJECTS & OUTSIDE EXPERIENCE
+ 
+ 
+Healthy
+•  
+Developed software to reconstruct MRI scans into 3D models, improving diagnostic efficiency
+•  
+Integrated direct connectivity to PACS server for seamless DICOM file access
+•  
+Enabled a medical image visualization in virtual and augmented reality for enhanced analysis
+•  
+Engineered a data integration solution to consolidate multiple data sources (database, excel sheets, call center system)
+•  
+Link to project
+MedAI
+•  
+Developed a smart agent for diagnosing brain illnesses
+•  
+Engineered a neural network for brain tumor classification, predicting Glioma, Meningioma, and Pituitary from medical 
+images
+•  
+Built Retrieval Augmented Generation model to provide a chatbot data retrieval and text generation
+•  
+Link to project
+Verso
+•  
+Built a RESTful application enabling user interaction with large language models (LLMs)
+•  
+Integrated OpenAI API for natural language processing and langchain for embeddings
+•  
+Enabled PDF upload and context document integration for smarter conversations
+•  
+Link to project
+Partition Reader
+•  
+Developed software to identify partition allocation
+•  
+Facilitated the extraction of globally unique identifiers and logical block addresses (hex format)
+•  
+User can specify offsets for retrieval of 16 bytes addresses
+•  
+Maintained consistent runtimes <2.3 seconds runtime
+•  
+Link to project
+SKILLS
+ 
+ 
+Skills: Python, Git, Java, HTML/CSS, Excel/Numbers/Sheets, machine learning, React.js, Blockchain, C#, C/C++, Data Analysis, 
+Data Structures & Algorithms, Flask, Firebase, JavaScript, LangChain, Linux/Unix, .NET, Pandas, Pytorch, REST APIs, Tensorflow, 
+Bash, Node.js, AWS, SQL, TypeScript, Docker, Pandas, forecasting, end-to-end
+Languages: French, Italian, Spanish
+
+GITHUB REPOS:
+1. KiwisGPT
+   Description: AI chatbot with my personal info as reference for any questions regarding personal experiences
+   Stars: 1
+   URL: https://github.com/Kiwis01/KiwisGPT
+
+2. Partition-Reader
+   Description: This code will read the partition, classify its type and parse in the partition tables based on the offset
+   Stars: 1
+   URL: https://github.com/Kiwis01/Partition-Reader
+
+3. Spotipy
+   Description: Python executable application that allows the user play, pause and skip song on spotify, utilizing spotify api
+   Stars: 1
+   URL: https://github.com/Kiwis01/Spotipy
+
+4. bchoc
+   Description: my end
+   Stars: 0
+   URL: https://github.com/Kiwis01/bchoc
+
+5. BoredActivities
+   Description: Simple html page that will let the user generate activities to kill boredom
+   Stars: 0
+   URL: https://github.com/Kiwis01/BoredActivities
+
+6. Brain-Tumor-CNN
+   Description: Trained and layered Convolutional Neural Network for brain tumor classification and detection
+   Stars: 0
+   URL: https://github.com/Kiwis01/Brain-Tumor-CNN
+
+7. CoffeeRecipes
+   Description: Website that will make recipes for any coffee you would like using AI
+   Stars: 0
+   URL: https://github.com/Kiwis01/CoffeeRecipes
+
+8. Expenses
+   Description: Personal Expenses Calculator
+   Stars: 0
+   URL: https://github.com/Kiwis01/Expenses
+
+9. FirebaseTest
+   Description: None
+   Stars: 0
+   URL: https://github.com/Kiwis01/FirebaseTest
+
+10. Kiwis01
+   Description: None
+   Stars: 0
+   URL: https://github.com/Kiwis01/Kiwis01
+
+11. LandingBoston
+   Description: Landing Page Version for Boston
+   Stars: 0
+   URL: https://github.com/Kiwis01/LandingBoston
+
+12. llama-train
+   Description: None
+   Stars: 0
+   URL: https://github.com/Kiwis01/llama-train
+
+13. MadLib
+   Description: mid
+   Stars: 0
+   URL: https://github.com/Kiwis01/MadLib
+
+14. MedAI
+   Description: Now contained in docker container 
+   Stars: 0
+   URL: https://github.com/Kiwis01/MedAI
+
+15. Medical-Assistant-AI
+   Description: Full-stack chatbot mixture of specialists 
+   Stars: 0
+   URL: https://github.com/Kiwis01/Medical-Assistant-AI
+
+16. Multiplayer-code
+   Description: Multiplayer leetcode experience to challenge your friends on a harmless competition.
+   Stars: 0
+   URL: https://github.com/Kiwis01/Multiplayer-code
+
+17. Nono
+   Description: Holy Moly
+   Stars: 0
+   URL: https://github.com/Kiwis01/Nono
+
+18. PiePayCards
+   Description: This will be the backend code for PiePay, this is the backend code where all the card transactions will be processed.
+   Stars: 0
+   URL: https://github.com/Kiwis01/PiePayCards
+
+19. PokeApi
+   Description: Pokemon random generator
+   Stars: 0
+   URL: https://github.com/Kiwis01/PokeApi
+
+20. Portfolio
+   Description: New portfolio template
+   Stars: 0
+   URL: https://github.com/Kiwis01/Portfolio
+
+21. Portfolio-react
+   Description: Portfolio using react 
+   Stars: 0
+   URL: https://github.com/Kiwis01/Portfolio-react
+
+22. Recipient-Organizer
+   Description: Code utilized to read a pdf (previously an excel sheet) and organize the recipients name and amount paid. 
+   Stars: 0
+   URL: https://github.com/Kiwis01/Recipient-Organizer
+
+23. SparkyAI
+   Description: An AI University assistant leveraging multi-agent architecture with real-time data integration. Combines Self improvement CRAG and Firebase analytics for resource retrieval across courses, shuttles, jobs and much more!
+   Stars: 0
+   URL: https://github.com/Kiwis01/SparkyAI
+
+24. TumorDetector
+   Description: Tumor detection web app built upon flask
+   Stars: 0
+   URL: https://github.com/Kiwis01/TumorDetector
+
+25. Verso-Landing
+   Description: Verso landing page still in dev
+   Stars: 0
+   URL: https://github.com/Kiwis01/Verso-Landing
+
+26. VersoJs
+   Description: Verso Transcription from streamlit/python to html/js
+   Stars: 0
+   URL: https://github.com/Kiwis01/VersoJs
+
