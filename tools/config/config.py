@@ -1,6 +1,7 @@
 import os
 import json
 import logging
+
 class Config:
     def __init__(self, path='config/config.json'):
 
@@ -31,6 +32,8 @@ class Config:
 
         # Set config variables
         self.GEMINI_API_KEY = data.get("GEMINI_API_KEY", "")
+        self.QDRANT_API_KEY = data.get("QDRANT_API_KEY", "")
+        self.QDRANT_URL = data.get("QDRANT_URL", "")
 
         # Log initialization
         self.logger.info("@config.py initialized successfully")

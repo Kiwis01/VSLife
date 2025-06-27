@@ -1,0 +1,38 @@
+About Bestie
+Bestie is a concierge-style, membership-based pet sitting service for busy pet parents in downtown Manhattan. Instead of self-serve booking, our members text us and we coordinate personalized pet care with our vetted network of sitters. We’re now looking to build a smart, backend-powered scheduling tool to help automate the sitter-matching process behind the scenes—without losing the white-glove experience our members love.
+
+What We’re Building
+We’re creating an internal booking process where members can enter their requests in free text (e.g., “30-minute walk Friday at 9pm”). The system will:
+* Ingest free text from member
+* Prompt for any missing info (e.g., location, timing, booking type, etc.)
+* Check sitter availability and preferences
+* Match the request to the best-fit sitters
+* Notify sitters to confirm or decline
+* Confirm back to the member once a sitter is booked
+This tool will be used internally to streamline operations—not as a public-facing product.
+
+What You’ll Do
+* Design and build a backend that can handle:
+* Sitter and member profiles, preferences, locations, and availability
+* A matching engine to recommend sitters based on past history, proximity, and open schedules
+* A messaging flow (via text or interface) to confirm bookings
+* Suggest and implement tools (e.g., calendar integrations, SMS APIs like Twilio, etc.)
+* Explore and integrate AI tools (e.g., natural language processing, prompt engineering, scheduling intelligence) to improve matching logic and user input interpretation
+* Collaborate with the founder (Lauren) to iterate and improve the product based on real usage
+
+You Might Be a Fit If You:
+* Are a current college student or recent graduate looking for hands-on experience with a real-world product to add to your resume and portfolio
+* Want experience using AI tools and integrations in a practical, applied setting
+* Are curious about natural language processing, recommendation systems, and smart automation
+* Have experience with scheduling or logistics tools, matching algorithms, or marketplace apps
+* Enjoy designing systems that replace spreadsheets, texts, and manual processes
+* Are comfortable asking questions, offering suggestions, and working independently
+
+Tech Stack (Flexible):
+* Python
+* PostgreSQL or MongoDB
+* Integrations: Zapier, Twilio, Google Calendar, Auth0/Firebase
+* We currently use OpenPhone so any experience using this tool is a plus, and integrations need to be compatible with OpenPhone
+
+Estimated Time Commitment:
+8 to 10 hours/week for 6 to 8 weeks, with potential for ongoing iterations or maintenance work after MVP launch.

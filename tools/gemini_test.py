@@ -3,13 +3,8 @@ import google.generativeai as genai
 
 def generate(resume, github_repos, job_description):
     
-    with open("database/harvard_booklet.pdf", "rb") as f:
-        harvard_booklet = f.read()
-    
     system_instruction = f"""
     You are an expert cover letter writer. Your task is to generate a professional, personalized cover letter tailored specifically to the job description using the user’s resume and GitHub project details.
-    Utilize the Harvard booklet as a reference for formatting and style.
-    {harvard_booklet}
 
     Use the following data:
     Resume:

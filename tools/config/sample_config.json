@@ -1,5 +1,5 @@
-[
-    {
-        "GEMINI_API_KEY": "YOUR API HERE JOTO"
-    }
-]
+{
+    "GEMINI_API_KEY": "YOUR API HERE JOTO",
+    "QDRANT_API_KEY": "YOUR API HERE JOTO",
+    "QDRANT_URL": "YOUR API HERE JOTO"
+}
